@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning java and javascript
+- 🌱 I’m currently learning java
 - 📫 How to reach me: ryanhungryan@gmail.com
-- ⚡ Fun fact: I like gaming !!
-
+- ⚡ Fun fact: I like gaming !
