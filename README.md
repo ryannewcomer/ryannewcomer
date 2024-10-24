@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryannewcomer)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryannewcomer&show_icons=true&theme=onedark)
 
 - 🌱 I’m currently learning java
 - 📫 How to reach me: ryanhungryan@gmail.com
